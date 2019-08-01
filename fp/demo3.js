@@ -6,3 +6,4 @@ function add(a,b,c){return a+b+c}
 
 add12fun = pianyingyong(add,1,2)
 console.log(add12fun(3))
+
